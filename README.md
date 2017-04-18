@@ -6,11 +6,17 @@ This is a minimal cross-platform application based on Electron.
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/saeedseyfi/imagerner.git
+
 # Go into the repository
-cd electron-quick-start
+cd imagerner
+
 # Install dependencies
 npm install
-# Run the app
+
+# Run the app for development purpose
 npm start
+
+# Deploy executable apps
+npm run deploy
 ```
